@@ -1,6 +1,6 @@
 ﻿host,country,latitude,longitude,city
 10.200.0.1,FR,45.9237,6.8694,Chamonix
-172.16.10.70,GE,,,Munich
-172.16.10.65,GE,,,Munich
-10.100.0.2,GE,,,Munich
+172.16.10.70,GE,48.250816,11.635328,Munich
+172.16.10.65,GE,48.252114,11.632558,Munich
+10.100.0.2,GE,48.250373,11.634159,Munich
 ,,,,
